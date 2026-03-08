@@ -3,7 +3,7 @@ export interface Phone {
   name: string
   feature: string
   icon: string
-  description: string  // new field
+  description: string
 }
 
 export const phoneData = [
